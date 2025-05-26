@@ -1,0 +1,16 @@
+target/
+out/
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
+.mvn/
+dependency-reduced-pom.xml
+release.properties
+.git
+.gitignore
+*.tmp
+*.temp
+*.swp
